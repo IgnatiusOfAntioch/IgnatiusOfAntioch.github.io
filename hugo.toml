@@ -1,4 +1,4 @@
-baseurl = "https://www.IgnatiusOfAntioch.github.io"
+baseurl = "https://IgnatiusOfAntioch.github.io"
 DefaultContentLanguage = "en"
 title = "The COG Catholic"
 # Using theme as git submodule 

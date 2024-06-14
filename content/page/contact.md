@@ -49,7 +49,7 @@ Please feel free to contact me with your comments and questions, or just to say 
 	- My Session ID is **Darren**.
 	- I paid $5 to get this alias for my Session ID so I wouldn't have to provide you with the super-long string of alpha-numeric characters.
 	- I regularly use Session.
-	- (If it's too much work to type **Darren**, scan QR code below with the Session app, which you can get [here](www.getsession.org).)
+	- (If it's too much work to type **Darren**, scan QR code below with the Session app, which you can get [here](https://getsession.org).)
 	
 ---
 

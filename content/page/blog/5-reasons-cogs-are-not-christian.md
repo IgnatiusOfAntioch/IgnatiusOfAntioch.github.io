@@ -5,22 +5,6 @@ draft = false
 tags = ['resurrection', 'trinity', 'christology']
 +++
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Reconstruction_of_the_east_pediment_of_the_Parthenon_2.jpg/640px-Reconstruction_of_the_east_pediment_of_the_Parthenon_2.jpg)
-
-Wild-eyed Christian enthusiasts are quick to blast others who disagree with them as not being Christian.
-
-A word of advice: If Christians have differing views on...
-
-- how predestination and God's omniscience works with our free will, or
-- whether God created the world in seven literal 24-hour days, or
-- what precisely the two goats of Leviticus 16 foreshadow,
-
-it's generally not wise to accuse them of being anti-Christ.
-
-But neither should we make the mistake of thinking beliefs don't matter. Some make a world of difference.
-
-## What about COGs?
-
 ![](https://images2.imgbox.com/52/35/KWeIqV2a_o.jpg)
 
 Can we apply the label "Christian" to the various COGs in the Armstrong tradition, such as the United Church of God (UCG); Church of God, a Worldwide Association (COGWA); Church of God International (CGI); Intercontinental Church of God (ICG); and all the rest?

@@ -4,13 +4,25 @@ subtitle: Why do I call myself the COG Catholic?
 comments: false
 ---
 
-"Greetings, friends around the world!"
+"Greetings!"
 
-Sorry -- I mean, *Hello*.
+My name is Darren.
 
-My name is Darren. “COG” is short for the “Church of God” movement — a declining quasi-Christian tradition not yet 100 years old. It was spawned by Herbert W. Armstrong, whose ministry began around 1934. He is the founder of the Worldwide Church of God (WCG).
+While I have many interests, my main goal in life is to die in the state of grace: to live as a faithful Catholic.
 
-I was born into the WCG, and at age 19 — during the early stages of “the changes” in WCG doctrine — I joined the Church of God International (CGI), founded by Armstrong’s son, Garner Ted Armstrong.
+“COG” is short for “Church of God.” It's an umbrella term for all the churches that trace their tradition directly to Herbert W. Armstrong, whose ministry began around 1934 and ended at his death in 1986. He founded the Worldwide Church of God (WCG). The church's splinter groups include...
+
+- Christian Biblical Church of God ([CBCG](https://cbcg.org/))
+- Church of God - A Worldwide Association ([COGWA](https://cogwa.org/))
+- Church of God International ([CGI](https://www.cgi.org/))
+- Intercontinental Church of God ([ICG](https://theicg.org/))
+- Living Church of God ([LCG](https://www.lcg.org/))
+- Philadelphia Church of God ([PCG](https://pcg.church/))
+- Restored Church of God ([RCG](https://www.rcg.org/home.html))
+- United Church of God ([UCG](https://www.ucg.org/))
+- and many others.
+
+I was born into the WCG, and then at age 19 — during the early stages of the organization's doctrinal upheaval — I joined the Church of God International (CGI), founded by Armstrong’s son, Garner Ted Armstrong.
 
 ---
 ![](https://images2.imgbox.com/92/38/VrQsglz1_o.jpg)
@@ -18,12 +30,14 @@ I was born into the WCG, and at age 19 — during the early stages of “the cha
 
 ---
 
-Now I’m a Tradition-minded Catholic. My conversion story is published [here](https://www.catholic.com/magazine/print-edition/my-path-to-the-worldwide-church-that-jesus-built) at the Catholic Answers website.
+Now I’m a Tradition-minded Catholic. My conversion story was published in *Catholic Answers Magazine*, and it can be found [here](https://www.catholic.com/magazine/print-edition/my-path-to-the-worldwide-church-that-jesus-built) on their website.
 
-I don’t resent my upbringing in Armstrongism (as it is more aptly called). It was while I was still a COG member that I desired to find and follow “the faith that was once for all delivered to the saints” (Jude 3). My background, as off course as it was, led me to Catholicism's on-ramp. It's part of my story, and I'm glad it is.
+I don’t resent my upbringing in "Armstrongism" (as it is more aptly called). It was as a COG member that I desired to find and follow “the faith that was once for all delivered to the saints” (Jude 3).
 
 Yet, at the same time, I wish I had known someone in my earlier young adult years who could both
 1. understand COG doctrines and its culture, *and*
 2. offer reasonable and charitable critiques of it while explaining Catholicism in terms I could understand.
 
-**This blog is NOT intended *only* for those who share my background,** but I do write in a way that might have helped my understanding if I could send it to my 1992 self, when I was a young, devout COGer facing the world ahead of me.
+*This blog is NOT intended *only* for those who share my background,* but I do write in a way that might have helped "1992 Darren" if only I could write to him -- back when he was a young, devout COGer facing the world ahead.
+
+Maybe something I write can help someone else, too.

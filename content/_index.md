@@ -5,6 +5,6 @@
 
  ## Welcome to my page
 
-Site is under construction: I will be adding more content to this front page. Meanwhile, [check out the blog](http://localhost:1313/page/blog/).
+Site is under construction: I will be adding more content to this front page. Meanwhile, check out the blog (see link above).
 
 ![](https://images2.imgbox.com/a8/cc/WgQCVwQJ_o.jpg)

@@ -40,7 +40,7 @@ Please feel free to contact me with your comments and questions, or just to say 
 - **Signal**:
 	- Send message to username **Darren.73**
 	- I regularly use Signal.
-	- Download Signal from [here](www.signal.org).
+	- Download Signal from [here](https://signal.org).
 
 ---
 

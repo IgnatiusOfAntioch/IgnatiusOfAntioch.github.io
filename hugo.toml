@@ -1,4 +1,4 @@
-baseurl = "https://cogcatholic.org"
+baseurl = "https://www.cogcatholic.org"
 DefaultContentLanguage = "en"
 title = "The COG Catholic"
 # Using theme as git submodule 
